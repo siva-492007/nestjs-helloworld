@@ -4,6 +4,6 @@ import {Injectable} from "@nestjs/common";
 
 export class HelloWorldService{
     helloWorld(){
-        return 'Hello World from Siva'
+        return 'Hello World from Vignesh Siva'
     }
 }
